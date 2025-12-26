@@ -6,7 +6,7 @@ A complete, production-ready review scraper
 
 ### 1. Clone & Setup
 ```bash
-git clone <repository-url>
+git clone <https://github.com/royal12-aa/saasreviewscr-0>
 cd review-scraper-vs
 
 # Create virtual environment (VS Code will detect this)
@@ -80,3 +80,4 @@ USER scraper
 
 # Default command
 ENTRYPOINT ["python", "src/main.py"]
+
