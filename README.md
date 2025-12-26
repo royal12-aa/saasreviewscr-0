@@ -1,2 +1,22 @@
-# saasreviewscr-0
-Develop a script to scrape product reviews from G2 and Capterra for a specific company and time period. Your script should be able to accept a company name, start date, end date, and source as inputs, and output a JSON file containing the reviews. For bonus points, identify and integrate a third source for SaaS app reviews
+# Product Review Scraper - 
+
+A complete, production-ready review scraper 
+
+## 🚀 Quick Start
+
+### 1. Clone & Setup
+```bash
+git clone <repository-url>
+cd review-scraper-vs
+
+# Create virtual environment (VS Code will detect this)
+python -m venv .venv
+
+# Activate venv (VS Code will do this automatically)
+# On Windows:
+.venv\Scripts\activate
+# On Mac/Linux:
+source .venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
