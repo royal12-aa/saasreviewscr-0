@@ -80,4 +80,17 @@ USER scraper
 
 # Default command
 ENTRYPOINT ["python", "src/main.py"]
+✅ Technical Features
+Modular Architecture: Easy to extend with new sources
+
+Type Hints: Full type annotations for better IDE support
+
+Data Classes: Structured data models using Python dataclasses
+
+CLI Interface: Command-line interface with helpful arguments
+
+Configuration Management: Environment-based configuration support
+
+
+
 
